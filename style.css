@@ -1,0 +1,35 @@
+body {
+
+  background-color: #92445c;
+}
+h2 {
+    color: white;
+      font-size: 40px;
+      -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    
+  }
+  .center {
+    margin: auto;
+    height: 40%;
+    
+    background-color: black;
+    color: white;
+    /*border: 3px solid #73AD21;*/
+    padding: 10px;
+  }
+
+button {
+    background-color: transparent;
+    color: black;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    
+}
+h3 {
+
+    padding:  10px 20px;
+    font-size:40px;
+  }
